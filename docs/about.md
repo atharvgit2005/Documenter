@@ -1,17 +1,1 @@
-# About NYX Studios
-
-## 👥 Founders & Leadership
-
-NYX was co-founded by a specialized team of two, combining product strategy with deep technical execution to bridge the gap between AI research and creator-economy products.
-
-### Atharv Paharia
-*   **Role**: Product Strategist & Vision
-*   **Focus**: Responsible for refining raw ideas into structured product concepts, defining market positioning, and designing the agentic workflows that power the NYX engine.
-*   **Objective**: To transform NYX from a functional MVP into a scalable, market-ready AI content agency.
-*   **Socials**: Instagram | LinkedIn
-
-### Bhavya Jain
-*   **Role**: Technical Architect
-*   **Focus**: Leads the engineering of the core NYX engine, including the modular backend architecture and the integration of the AI intelligence layer.
-*   **Objective**: Ensuring technical stability, high-performance animations, and the end-to-end orchestration of video synthesis pipelines.
-*   **Socials**: Instagram | LinkedIn
+<h1>Welcome to the documentation for NYX Studios</h1><h2>Documenter is a local GUI tool for managing project documentation with Gemini 3 and GitHub integration.</h2><p>NXY is a AI content studio which will be helpful in Content Creation.</p><ul><li>Local File Sync: Reads .md files.</li><li>Ai Chat Interface: Chat with your docs.</li><li>Aganic File Modification: Updates files via Ai.</li><li>Github Auto-Commit: Syncs changes to Github.</li></ul>
